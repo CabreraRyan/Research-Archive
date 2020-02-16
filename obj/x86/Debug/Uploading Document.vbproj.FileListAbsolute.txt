@@ -1,0 +1,27 @@
+C:\Users\PC\Documents\Visual Studio 2010\Projects\Uploading Document\Uploading Document\bin\Debug\Uploading Document.exe
+C:\Users\PC\Documents\Visual Studio 2010\Projects\Uploading Document\Uploading Document\bin\Debug\Uploading Document.pdb
+C:\Users\PC\Documents\Visual Studio 2010\Projects\Uploading Document\Uploading Document\bin\Debug\Uploading Document.xml
+C:\Users\PC\Documents\Visual Studio 2010\Projects\Uploading Document\Uploading Document\obj\x86\Debug\Uploading_Document.Form1.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\Uploading Document\Uploading Document\obj\x86\Debug\Uploading_Document.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\Uploading Document\Uploading Document\obj\x86\Debug\Uploading Document.vbproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2010\Projects\Uploading Document\Uploading Document\obj\x86\Debug\Uploading Document.exe
+C:\Users\PC\Documents\Visual Studio 2010\Projects\Uploading Document\Uploading Document\obj\x86\Debug\Uploading Document.xml
+C:\Users\PC\Documents\Visual Studio 2010\Projects\Uploading Document\Uploading Document\obj\x86\Debug\Uploading Document.pdb
+C:\Users\user\Desktop\Uploading-Document-master\obj\x86\Debug\Uploading Document.exe
+C:\Users\user\Desktop\Uploading-Document-master\obj\x86\Debug\Uploading Document.xml
+C:\Users\user\Desktop\Uploading-Document-master\obj\x86\Debug\Uploading Document.pdb
+C:\Users\user\Desktop\Uploading-Document-master\bin\Debug\Uploading Document.exe
+C:\Users\user\Desktop\Uploading-Document-master\bin\Debug\Uploading Document.pdb
+C:\Users\user\Desktop\Uploading-Document-master\bin\Debug\Uploading Document.xml
+C:\Users\user\Desktop\Uploading-Document-master\obj\x86\Debug\Uploading_Document.Resources.resources
+C:\Users\user\Desktop\Uploading-Document-master\obj\x86\Debug\Uploading Document.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\Uploading-Document-master\obj\x86\Debug\Uploading_Document.adminUploadForm.resources
+C:\Users\user\Desktop\Uploading-Document-master\obj\x86\Debug\Uploading_Document.adminMainMenuForm.resources
+C:\Users\user\Desktop\Uploading-Document-master\obj\x86\Debug\Uploading_Document.adminEditForm.resources
+C:\Users\user\Desktop\Uploading-Document-master\bin\Debug\Uploading Document.exe.manifest
+C:\Users\user\Desktop\Uploading-Document-master\bin\Debug\Uploading Document.application
+C:\Users\user\Desktop\Uploading-Document-master\obj\x86\Debug\Uploading Document.exe.manifest
+C:\Users\user\Desktop\Uploading-Document-master\obj\x86\Debug\Uploading Document.application
+C:\Users\user\Desktop\Uploading-Document-master\obj\x86\Debug\Uploading_Document.studentForm.resources
+C:\Users\user\Desktop\Uploading-Document-master\obj\x86\Debug\Uploading_Document.mainMenu.resources
+C:\Users\user\Desktop\Uploading-Document-master\obj\x86\Debug\Uploading_Document.adminLogin.resources
